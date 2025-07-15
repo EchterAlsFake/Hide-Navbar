@@ -50,9 +50,3 @@ Be sure to omit special symbols such as á,ã as Magisk/KSU's terminal window wo
 - [AAGaming00](https://github.com/AAGaming00/aapt2) for his AAPT2 binary
 
 - All Custom ROMs who made my module an official feature in their ROM (AOSIP, Havoc & etc)
-
-## Links
-- [GitHub](https://github.com/Magisk-Modules-Repo/HideNavBar) 
-- [Telegram Channel](https://t.me/danmgk)
-- [PayPal](https://www.paypal.com/donate/?hosted_button_id=BJAJW4755BXFY)
-- Revolut Tag @danielem47
